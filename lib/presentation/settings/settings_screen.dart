@@ -315,7 +315,7 @@ class _SettingScreenState  extends State<SettingScreen>{
                     margin: const EdgeInsets.all(10),
                     width: MediaQuery.of(context).size.width,
                     child: Text(
-                      appLoc.sign_up,
+                      appLoc.sign_out,
                       style: const TextStyle(
                           color: Colors.red
                       ),

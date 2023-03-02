@@ -65,10 +65,7 @@ class _SignInState extends State<SignIn> {
                       children: [
                         Text(
                           appLoc.sign_in,
-                          style: const TextStyle(
-                            fontSize: 38,
-                            fontWeight: FontWeight.bold,
-                          ),
+                          style: Theme.of(context).textTheme.headlineMedium,
                         ),
                         const SizedBox(
                           height: 18,

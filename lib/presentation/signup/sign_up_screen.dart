@@ -66,10 +66,8 @@ class _SignUpState extends State<SignUp> {
                     children: [
                       Text(
                         appLoc.sign_up,
-                        style: const TextStyle(
-                          fontSize: 38,
-                          fontWeight: FontWeight.bold,
-                        ),
+                        style: Theme.of(context).textTheme.headlineMedium,
+
                       ),
                       const SizedBox(
                         height: 18,

@@ -16,6 +16,9 @@ ThemeData lightTheme(BuildContext context) {
       titleLarge: TextStyle(color: Colors.black54),
       titleMedium: TextStyle(color: Colors.black54),
       titleSmall: TextStyle(color: Colors.black54),
+      headlineLarge: TextStyle(color: Colors.black54),
+      headlineMedium: TextStyle(color: Colors.black54),
+      headlineSmall: TextStyle(color: Colors.black54),
     ),
     appBarTheme: const AppBarTheme(
         centerTitle: false,
