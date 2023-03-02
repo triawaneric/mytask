@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "742054659350",
+    "project_id": "mytasks-975f7",
+    "storage_bucket": "mytasks-975f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742054659350:android:278d4793d8dfa39c47bc37",
+        "android_client_info": {
+          "package_name": "com.erictriawan.mytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742054659350-b8ubmuj2aj8bca1dabols2f4q9e2i7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFr4OJ5DhamWil_RpJ_YuT-ojg7faX1zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742054659350-b8ubmuj2aj8bca1dabols2f4q9e2i7b1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742054659350-hfoc2nc1fqnmib99e46mbmmo47ggg237.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erictriawan.mytasks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
